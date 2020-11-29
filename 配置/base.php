@@ -3,7 +3,7 @@
   'password' => 'Xy251231',
   'style' => 'classic',
   'onedrive_root' => '/Mirrors/',
-  'except_path' => 'all',
+  'except_path' => '',
   'cache_type' => 'secache',
   'cache_expire_time' => 120,
   'cache_refresh_time' => 600,
